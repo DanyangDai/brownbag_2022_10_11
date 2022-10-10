@@ -291,6 +291,22 @@ we are called R-ladies but we do encourage other gender to attend our events.
 `r fa_list(c("fa-solid fa-rainbow" = "R-LADIES IS A WORLDWIDE ORGANIZATION WHOSE MISSION IS TO PROMOTE GENDER DIVERSITY IN THE R COMMUNITY.", "fa-solid fa-rainbow" = "The R community suffers from an underrepresentation of minority genders (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender) in every role and area of participation, whether as leaders, package developers, conference speakers, conference participants, educators, or users."))`
 
 
-# [R]{.rladies-red}[-]{.rladies-purple}[L]{.rladies-orange}[a]{.rladies-yellow}[d]{.rladies-green}[i]{.rladies-blue}[e]{.rladies-indigo}[s]{.rladies-violet} 
+# [R]{.rladies-red}[-]{.rladies-purple}[L]{.rladies-orange}[a]{.rladies-yellow}[d]{.rladies-green}[i]{.rladies-blue}[e]{.rladies-indigo}[s]{.rladies-violet} [?]{.rladies-purple}
 
 
+`r fa_list(c("fa-solid fa-ban" = "Barrier?", "fa-solid fa-rainbow" = "How can we be more inclusive for minority gender?"))`
+
+
+## Reference
+  
+- The slides are made using [Quarto](https://quarto.org/) with [Emi Tanaka's](https://github.com/emitanaka/talks) CSS design.
+  
+- Slides can be found at [DanyangDai/brownbag_2022_10_11](https://github.com/DanyangDai/brownbag_2022_10_11)
+
+- More information about gender data collection: [CAPTURING GENDER DATA INCLUSIVELY - Monash](https://www.monash.edu/__data/assets/pdf_file/0005/1778378/capturing-gender-data-inclusively-2.pdf)
+
+
+
+# [T]{.rladies-red}[H]{.rladies-purple}[A]{.rladies-orange}[N]{.rladies-yellow}[K]{.rladies-green}  [Y]{.rladies-blue}[O]{.rladies-indigo}[U]{.rladies-violet}[!]{.rladies-purple}
+
+  
